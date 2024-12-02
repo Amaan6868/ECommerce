@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ECommer.Api.Orders
+namespace ECommerce.Api.Orders
 {
     public class Program
     {

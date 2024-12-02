@@ -5,7 +5,7 @@ VisualStudioVersion = 17.12.35521.163 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.Api.Products", "ECommerce.Api.Products\ECommerce.Api.Products.csproj", "{3A554764-8F2F-4872-8FBF-5A1ED19140BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommer.Api.Orders", "ECommer.Api.Orders\ECommer.Api.Orders.csproj", "{18A7198F-BAFC-4A01-A3A4-617899CBFCF2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.Api.Orders", "ECommer.Api.Orders\ECommerce.Api.Orders.csproj", "{18A7198F-BAFC-4A01-A3A4-617899CBFCF2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.Api.Customers", "ECommerce.Api.Customers\ECommerce.Api.Customers.csproj", "{0E782F68-C270-473D-A567-EBE2791BEF63}"
 EndProject
